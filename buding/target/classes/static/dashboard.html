@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>控制台 - Buding</title>
+    <link rel="stylesheet" href="/css/dashboard.css">
+</head>
+<body>
+    <!-- 顶部导航栏 -->
+    <header class="navbar">
+        <div class="navbar-container">
+            <div class="navbar-brand">
+                <h1>Buding 管理系统</h1>
+            </div>
+            <div class="navbar-user">
+                <span id="username" class="username">加载中...</span>
+                <button id="logoutBtn" class="logout-btn">退出登录</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- 主内容区 -->
+    <main class="main-content">
+        <div class="content-container">
+            <!-- 欢迎卡片 -->
+            <div class="welcome-card">
+                <div class="welcome-icon">🎉</div>
+                <h2>欢迎回来！</h2>
+                <p>您已成功登录到 Buding 管理系统</p>
+            </div>
+
+            <!-- 用户信息卡片 -->
+            <div class="info-card">
+                <h3>用户信息</h3>
+                <div id="userInfo" class="user-info">
+                    <div class="loading">加载中...</div>
+                </div>
+            </div>
+
+            <!-- 功能快捷入口 -->
+            <div class="quick-actions">
+                <h3>快捷操作</h3>
+                <div class="action-grid">
+                    <div class="action-item" onclick="alert('功能开发中...')">
+                        <div class="action-icon">📊</div>
+                        <div class="action-title">数据统计</div>
+                    </div>
+                    <div class="action-item" onclick="window.location.href='/users.html'">                        <div class="action-icon">👥</div>
+                        <div class="action-title">用户管理</div>
+                    </div>
+                    <div class="action-item" onclick="alert('功能开发中...')">
+                        <div class="action-icon">⚙️</div>
+                        <div class="action-title">系统设置</div>
+                    </div>
+                    <div class="action-item" onclick="window.location.href='/login.html'">
+                        <div class="action-icon">🔄</div>
+                        <div class="action-title">重新登录</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="/js/dashboard.js"></script>
+</body>
+</html>

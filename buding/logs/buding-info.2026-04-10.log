@@ -1,0 +1,91 @@
+2026-04-10 10:27:29.158 [main] INFO  com.example.BudingApplication - Starting BudingApplication using Java 21.0.3 on DESKTOP-6NIC9BJ with PID 37708 (D:\git\jiliguala\buding\target\classes started by Administrator in D:\git\jiliguala\buding)
+2026-04-10 10:27:29.160 [main] INFO  com.example.BudingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-10 10:27:29.808 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-10 10:27:29.809 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-10 10:27:29.810 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2026-04-10 10:27:29.884 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-10 10:27:30.245 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-04-10 10:27:30.266 [main] INFO  com.example.BudingApplication - Started BudingApplication in 1.433 seconds (JVM running for 1.845)
+2026-04-10 10:27:50.440 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-10 10:27:50.759 [http-nio-8080-exec-1] INFO  com.example.auth.service.impl.AuditServiceImpl - 📝 [审计日志] 用户: admin | 操作: LOGIN | 结果: SUCCESS | IP: 0:0:0:0:0:0:0:1 | 原因: null
+2026-04-10 10:52:49.519 [main] INFO  com.example.BudingApplication - Starting BudingApplication using Java 21.0.3 on DESKTOP-6NIC9BJ with PID 43720 (D:\git\jiliguala\buding\target\classes started by Administrator in D:\git\jiliguala\buding)
+2026-04-10 10:52:49.521 [main] INFO  com.example.BudingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-10 10:52:50.693 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-10 10:52:50.694 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-10 10:52:50.694 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2026-04-10 10:52:50.803 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-10 10:52:51.197 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-04-10 10:52:51.302 [main] INFO  com.example.BudingApplication - Started BudingApplication in 2.242 seconds (JVM running for 2.78)
+2026-04-10 10:54:01.096 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-10 10:58:25.540 [main] INFO  com.example.BudingApplication - Starting BudingApplication using Java 21.0.3 on DESKTOP-6NIC9BJ with PID 50844 (D:\git\jiliguala\buding\target\classes started by Administrator in D:\git\jiliguala\buding)
+2026-04-10 10:58:25.542 [main] INFO  com.example.BudingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-10 10:58:26.197 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-10 10:58:26.199 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-10 10:58:26.199 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2026-04-10 10:58:26.270 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-10 10:58:26.594 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-04-10 10:58:26.612 [main] INFO  com.example.BudingApplication - Started BudingApplication in 1.441 seconds (JVM running for 1.873)
+2026-04-10 10:58:39.958 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-10 11:05:22.289 [main] INFO  com.example.BudingApplication - Starting BudingApplication using Java 21.0.3 on DESKTOP-6NIC9BJ with PID 50960 (D:\git\jiliguala\buding\target\classes started by Administrator in D:\git\jiliguala\buding)
+2026-04-10 11:05:22.290 [main] INFO  com.example.BudingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-10 11:05:22.898 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-10 11:05:22.900 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-10 11:05:22.901 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2026-04-10 11:05:22.969 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-10 11:05:23.327 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-04-10 11:05:23.350 [main] INFO  com.example.BudingApplication - Started BudingApplication in 1.362 seconds (JVM running for 1.796)
+2026-04-10 11:05:42.298 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-10 11:05:48.521 [http-nio-8080-exec-5] INFO  com.example.auth.service.impl.AuditServiceImpl - 📝 [审计日志] 用户: 12345678 | 操作: LOGIN | 结果: FAILED | IP: 0:0:0:0:0:0:0:1 | 原因: 用户名或密码错误
+2026-04-10 11:06:02.160 [http-nio-8080-exec-7] INFO  com.example.auth.service.impl.AuditServiceImpl - 📝 [审计日志] 用户: admin | 操作: LOGIN | 结果: SUCCESS | IP: 0:0:0:0:0:0:0:1 | 原因: null
+2026-04-10 11:06:23.732 [http-nio-8080-exec-1] INFO  com.example.auth.service.impl.AuditServiceImpl - 📝 [审计日志] 用户: admin | 操作: LOGOUT | 结果: SUCCESS | IP: 0:0:0:0:0:0:0:1 | 原因: null
+2026-04-10 15:30:37.020 [main] INFO  com.example.BudingApplication - Starting BudingApplication using Java 21.0.3 on DESKTOP-6NIC9BJ with PID 12156 (D:\git\jiliguala\buding\target\classes started by Administrator in D:\git\jiliguala\buding)
+2026-04-10 15:30:37.022 [main] INFO  com.example.BudingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-10 15:30:37.849 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-10 15:30:37.850 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-10 15:30:37.850 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2026-04-10 15:30:37.924 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-10 15:30:38.102 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2026-04-10 15:33:31.206 [main] INFO  com.example.BudingApplication - Starting BudingApplication using Java 21.0.3 on DESKTOP-6NIC9BJ with PID 20944 (D:\git\jiliguala\buding\target\classes started by Administrator in D:\git\jiliguala\buding)
+2026-04-10 15:33:31.208 [main] INFO  com.example.BudingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-10 15:33:31.821 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-10 15:33:31.823 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-10 15:33:31.823 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2026-04-10 15:33:31.899 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-10 15:33:32.264 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-04-10 15:33:32.307 [main] INFO  com.example.BudingApplication - Started BudingApplication in 1.411 seconds (JVM running for 1.834)
+2026-04-10 15:33:45.297 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-10 15:36:48.805 [main] INFO  com.example.BudingApplication - Starting BudingApplication using Java 21.0.3 on DESKTOP-6NIC9BJ with PID 46156 (D:\git\jiliguala\buding\target\classes started by Administrator in D:\git\jiliguala\buding)
+2026-04-10 15:36:48.806 [main] INFO  com.example.BudingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-10 15:36:49.426 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-10 15:36:49.429 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-10 15:36:49.429 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2026-04-10 15:36:49.508 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-10 15:36:49.551 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2026-04-10 15:37:17.268 [main] INFO  com.example.BudingApplication - Starting BudingApplication using Java 21.0.3 on DESKTOP-6NIC9BJ with PID 48788 (D:\git\jiliguala\buding\target\classes started by Administrator in D:\git\jiliguala\buding)
+2026-04-10 15:37:17.271 [main] INFO  com.example.BudingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-10 15:37:17.897 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-10 15:37:17.898 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-10 15:37:17.898 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2026-04-10 15:37:17.974 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-10 15:37:18.316 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-04-10 15:37:18.339 [main] INFO  com.example.BudingApplication - Started BudingApplication in 1.405 seconds (JVM running for 1.849)
+2026-04-10 15:37:21.995 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-10 16:04:31.167 [main] INFO  com.example.BudingApplication - Starting BudingApplication using Java 21.0.3 on DESKTOP-6NIC9BJ with PID 48420 (D:\git\jiliguala\buding\target\classes started by Administrator in D:\git\jiliguala\buding)
+2026-04-10 16:04:31.168 [main] INFO  com.example.BudingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-10 16:04:31.910 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-10 16:04:31.911 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-10 16:04:31.912 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2026-04-10 16:04:31.981 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-10 16:04:32.306 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-04-10 16:04:32.326 [main] INFO  com.example.BudingApplication - Started BudingApplication in 1.643 seconds (JVM running for 2.291)
+2026-04-10 16:04:37.804 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-10 17:24:45.914 [main] INFO  com.example.BudingApplication - Starting BudingApplication using Java 21.0.3 on DESKTOP-6NIC9BJ with PID 2704 (D:\git\jiliguala\buding\target\classes started by Administrator in D:\git\jiliguala\buding)
+2026-04-10 17:24:45.916 [main] INFO  com.example.BudingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-10 17:24:46.530 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-10 17:24:46.531 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-10 17:24:46.531 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2026-04-10 17:24:46.606 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-10 17:24:46.979 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-04-10 17:24:46.999 [main] INFO  com.example.BudingApplication - Started BudingApplication in 1.406 seconds (JVM running for 1.854)
+2026-04-10 17:33:27.227 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-10 17:33:32.995 [http-nio-8080-exec-7] INFO  com.example.auth.service.impl.AuditServiceImpl - 📝 [审计日志] 用户: admin | 操作: LOGIN | 结果: SUCCESS | IP: 0:0:0:0:0:0:0:1 | 原因: null
